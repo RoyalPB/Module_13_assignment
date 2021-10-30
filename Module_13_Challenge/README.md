@@ -15,4 +15,4 @@ from tensorflow.keras.models import Sequential
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler,OneHotEncoder
 
-Brought to you by Donell Carter email: dcarter7279@gmail.com
+Brought to you by Philip Burton pburton8412@gmail.com
